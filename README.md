@@ -19,7 +19,7 @@ Bulan 🌙: Anak Kecil Langit.
 -
 
 ## 🛠️ Teknologi & Alat Favorit
-Langit Menggunakan Program Untuk Mmebuat Semua Repositories ini Menggunakan Html Css javascript php python dan lainnya.
+Langit Menggunakan Program Untuk Mmebuat Semua Repositories ini Menggunakan Pengembang Frond End.
 
 ## 🤝 Mari Terhubung!
 Jika kamu memiliki ide, kolaborasi, atau sekadar ingin menyapa:

@@ -1,4 +1,6 @@
-🌌 Langit dan Bulan 🌙
+<div align="center">
+# 🌌 Langit dan Bulan 🌙  
+</div>
 
 ## 🌟 Tentang Kami
 
